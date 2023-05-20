@@ -33,7 +33,7 @@ Five distinct machine learning models were trained to predict the presence of st
 |Random Forest|Precision: 0.94<br> Recall: 0.99<br> F1-score: 0.96<br> ROC AUC score: 0.9934043948188809|Precision: 0.99<br> Recall: 1.0<br> F1-score: 1.0<br> ROC AUC score: 0.9999292951268026|
 |Gradient Boosting|Precision: 0.82<br> Recall: 0.76<br> F1-score: 0.78<br> ROC AUC score: 0.873846697729794|Precision: 0.99<br> Recall: 1.0<br> F1-score: 1.0<br> ROC AUC score: 0.9999631234938607|
 
-Gradient boosting and decision tree models turned out to be the best for solving this classification problem
+Gradient boosting and decision tree models turned out to be the best for solving this classification problem.
 
 ## Conclusion
 
