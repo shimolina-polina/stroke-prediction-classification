@@ -27,8 +27,8 @@ Five distinct machine learning models were trained to predict the presence of st
 
 |Model|Baseline|Gridsearch|
 |-|-|-|
-|KNN|Precision: 0.75 Recall: 0.82 F1-score: 0.79 ROC AUC score: 0.8531544653444516 |Precision: 0.77 Recall: 0.77 F1-score: 0.77 ROC AUC score: 0.8481729394579811|
-|SVC|Precision: 0.73 Recall: 0.69 F1-score: 0.71 ROC AUC score: 0.783156730530161|Precision: 0.77 Recall: 0.71 F1-score: 0.74 ROC AUC score: 0.8192640298072141|
+|KNN|Precision: 0.75\ Recall: 0.82\ F1-score: 0.79\ ROC AUC score: 0.8531544653444516 |Precision: 0.77\ Recall: 0.77\ F1-score: 0.77\ ROC AUC score: 0.8481729394579811|
+|SVC|Precision: 0.73\ Recall: 0.69\ F1-score: 0.71\ ROC AUC score: 0.783156730530161|Precision: 0.77\ Recall: 0.71\ F1-score: 0.74\ ROC AUC score: 0.8192640298072141|
 |Decision tree|||
 |Random Forest|||
 |Gradient Boosting|||
