@@ -29,7 +29,7 @@ Five distinct machine learning models were trained to predict the presence of st
 |-|-|-|
 |KNN|Precision: 0.75<br> Recall: 0.82<br> F1-score: 0.79<br> ROC AUC score: 0.8531544653444516 |Precision: 0.77<br> Recall: 0.77<br> F1-score: 0.77<br> ROC AUC score: 0.8481729394579811|
 |SVC|Precision: 0.73<br> Recall: 0.69<br> F1-score: 0.71<br> ROC AUC score: 0.783156730530161|Precision: 0.77<br> Recall: 0.71<br> F1-score: 0.74<br> ROC AUC score: 0.8192640298072141|
-|Decision tree|||
+|Decision tree|Precision: 0.99<br> Recall: 1.0<br> F1-score: 1.0<br> ROC AUC score: 0.9959451681616494|Precision: 1.0<br> Recall: 1.0<br> F1-score: 1.0<br> ROC AUC score: 0.9964343646004666|
 |Random Forest|||
 |Gradient Boosting|||
 
